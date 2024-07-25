@@ -1,5 +1,5 @@
 [package]
-name = "Cayley_Table_Multiplicative_Zn"
+name = "Multiplication_Table_Generator"
 version = "0.1.0"
 edition = "2021"
 
